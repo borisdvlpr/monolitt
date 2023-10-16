@@ -1,0 +1,11 @@
+{
+  "name": "monolitt",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nx": "^16.3.2"
+  }
+}
